@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shruti</h1>
-<h3 align="center">Dedicated DevOps engineer showcasing a portfolio of projects that leverage automation, continuous integration, and cloud-native technologies to enhance development workflows and operational efficiency.</h3>
+<h3>Dedicated DevOps engineer showcasing a portfolio of projects that leverage automation, continuous integration, and cloud-native technologies to enhance development workflows and operational efficiency.</h3>
 
 - 📫 How to reach me **shruti1299@gmail.com**
 
